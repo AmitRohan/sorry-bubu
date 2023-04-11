@@ -192,3 +192,5 @@ thodaAurMehnatKaroBtn.addEventListener("click", ()=>{
 
 // open modal event
 openIntroModal();
+
+document.getElementById('myBody').requestFullscreen();
